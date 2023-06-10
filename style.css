@@ -16,8 +16,10 @@ body {
 }
 
 .block {
-    margin-left: 20%;
-    margin-right: 20%;
+    /*margin-left: 20%;
+    margin-right: 20%;*/
+    margin-left: 325px;
+    margin-right: 325px;
 }
 
 .menu-bar {
@@ -37,7 +39,7 @@ body {
     background-color: #2B7977;
     border: none;
     text-align: center;
-    padding: 15.7px;
+    padding: 15.5px;
     text-decoration: none;
 }
 
