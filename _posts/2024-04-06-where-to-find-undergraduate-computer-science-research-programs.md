@@ -19,7 +19,7 @@ Most programs run for 8-10 weeks in the summer, but some occur during the fall/s
 
 ## What do you do in an REU?
 
-The typical REU occurs during the summer. Once accepted, the program coordinator will get in touch with you to setup travel arrangements and payment accounts for direct deposit.
+A typical REU occurs during the summer. Once accepted, the program coordinator will get in touch with you to set up travel arrangements and payment accounts for direct deposit.
 
 Once you arrive, you will have some time to get settled onto your new campus. The site will have you live in a single or double room, depending on the program. You will probably get a parking pass near your dorm (if driving up), but you won't get reimbursed for any gas spent while the program is active.
 
@@ -29,7 +29,7 @@ _If you want to learn more about what is involved when attending an REU, take a 
 
 ## Where do you find REU programs?
 
-NSF has a listing where program coordinators can advertise their REU programs. Luckily, you can sort by the subject in which you are interested. For example, there are categories for computer science, astronomical science, environmental science, physics, psychology, and a lot more. If you study STEM, chances are there is a program for you.
+NSF has a [listing](https://www.nsf.gov/crssprgm/reu/) where program coordinators can advertise their REU programs. Luckily, you can sort by the subject in which you are interested. For example, there are categories for computer science, astronomical science, environmental science, physics, psychology, and a lot more. If you study STEM, chances are there is a program for you.
 
 Each item in the listing includes information about the location, school, coordinators, and the general topic of the program. You can click `Abstract of Reward` to view more information about their NSF grant if you are interested in that sort of thing. Clicking that link also gives your more information on where to apply for that specific program. Most programs use the **NSF ETAP portal**, but some host their own application forms.
 
@@ -39,9 +39,9 @@ I will briefly go over the general application process for these research progra
 
 ### The NSF ETAP Portal
 
-Most programs utilize the NSF ETAP portal. The portal serves as a centralized place to write and organize your application materials, making it easier to apply to more than one REU.
+Most programs utilize the [NSF ETAP portal](https://etap.nsf.gov/). This portal serves as a centralized place to write and organize your application materials, making it easier to apply to more than one REU.
 
-First, you setup an account with your basic personal details. Then, you upload your **personal statement**, **resume**, and **unofficial transcript** without the need to re-upload them for each application. You also send **recommendation letter** invites from there.
+First, you set up an account with your basic personal details. Then, you upload your **personal statement**, **resume**, and **unofficial transcript** without the need to re-upload them for each application. You also send **recommendation letter** invites from there.
 
 The ETAP portal also serves as an additional listing where you can browse available REU programs, filtered by your area of interest.
 
