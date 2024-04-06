@@ -1,4 +1,4 @@
 ---
 icon: fa-solid fa-book
-order: 2
+order: 1
 ---
