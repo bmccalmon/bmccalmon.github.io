@@ -2,7 +2,6 @@
 layout: post
 title: Where to Find an Undergraduate Research Program
 date: 2024-04-06 14:21 -0400
-categories: [RESEARCH ADVICE]
 image:
   path: assets/img/research_center.JPG
   alt: Research center at Texas A&M University
