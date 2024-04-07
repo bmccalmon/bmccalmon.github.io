@@ -47,7 +47,7 @@ First, you set up an account with your basic personal information. Then, you upl
 
 The ETAP portal also serves as an additional listing where you can browse available REU programs, filtered by your area of interest.
 
-A few weeks after you submit your application, you will receive an email notifying you whether you were accepted/rejected. There is no need to check your applicaiton status on the portal.
+A few weeks after you submit your application, you will receive an email notifying you whether you were accepted/rejected. There is no need to check your application status on the portal.
 
 ## Learn more
 
