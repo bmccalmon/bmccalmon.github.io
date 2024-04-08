@@ -16,6 +16,10 @@
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
   url: "https://www.linkedin.com/in/benmccalmon" # Fill with your Linkedin homepage
+
+- type: medium
+  icon: "fa-brands fa-medium"
+  url: "https://medium.com/@benmccalmon"
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

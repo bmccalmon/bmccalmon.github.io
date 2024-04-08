@@ -33,7 +33,7 @@ _The NSF program listing for Computer Science_
 
 NSF has a [listing](https://www.nsf.gov/crssprgm/reu/reu_search.jsp) where program coordinators can advertise their REU programs. Luckily, you can sort by the subject in which you are interested. For example, there are categories for computer science, astronomical science, environmental science, physics, chemistry, and a lot more. If you study STEM, chances are there is a program for you.
 
-Each item in the listing includes information about the location, school, coordinators, and the general topic of the program. You can click `Abstract of Award` to view more information about their NSF grant if you are interested in that sort of thing. Clicking that link also gives your more information on where to apply for that specific program. Most programs accept applications through the **NSF ETAP portal**, but some host their own application forms.
+Each item in the listing includes information about the location, school, coordinators, and the general topic of the program. You can click `Abstract of Award` to view more information about their NSF grant if you are interested in that sort of thing. Clicking that link also gives you more information on where to apply for that specific program. Most programs accept applications through the **NSF ETAP portal**, but some host their own application forms.
 
 ## How do you apply for REU programs?
 
