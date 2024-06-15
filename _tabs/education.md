@@ -7,7 +7,7 @@ order: 2
 
 | School                    | Program                              | GPA       | Graduation Date |
 | ------------------------- | ------------------------------------ | --------- | --------------- | --- |
-| College of the Holy Cross | _Bachelor of Arts, Computer Science_ | 3.54/4.00 | May 2026        |
+| College of the Holy Cross | _Bachelor of Arts, Computer Science_ | 3.57/4.00 | May 2026        |
 | University of Sussex      | Study Abroad                         |           |                 |     |
 
 ## Relevant Courses
