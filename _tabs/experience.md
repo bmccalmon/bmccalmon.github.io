@@ -1,5 +1,5 @@
 ---
-icon: fa-solid fa-book
+icon: fa-solid fa-briefcase
 order: 1
 ---
 
