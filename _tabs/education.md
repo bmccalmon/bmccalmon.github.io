@@ -14,6 +14,8 @@ order: 2
 
 | Course name                                                                              | Semester    |
 | ---------------------------------------------------------------------------------------- | ----------- |
+| [Machine Learning](https://catalog.holycross.edu/search/?search=Machine+Learning)        | Fall 2024   |
+| [Multivariable Calculus](https://catalog.holycross.edu/search/?search=MATH+241)          | Fall 2024   |
 | [Linear Algebra](https://catalog.holycross.edu/search/?P=MATH%20244)                     | Spring 2024 |
 | [Discrete Math](https://catalog.holycross.edu/search/?search=Math+199-S01)               | Spring 2024 |
 | [Analysis of Algorithms](https://catalog.holycross.edu/search/?search=CSCI+235)          | Fall 2023   |
@@ -28,7 +30,5 @@ order: 2
 | ---------- | --------- | -------- | --------- | ----- |
 | Python     | ROS 2     | Git      | Unity     | LaTeX |
 | C++        | OpenCV    | GitHub   | Linux     |       |
-| Java       | Numpy     |          |           |       |
-| C#         | Keras     |          |           |       |
-| JavaScript |           |          |           |       |
-| Julia      |           |          |           |       |
+| MATLAB     | NumPy     |          |           |       |
+| Java       |           |          |           |       |
